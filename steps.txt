@@ -1,0 +1,8 @@
+Import a Collection:
+  install database tools for the CLI
+  Add to Path
+  Doesn't work on the mongosh shell
+  Copy connection string for the MongoDB Compass
+  Remove the <password> substring
+  Change database at end of the connection string
+  add --collection <collectionName> --file <filepath>
